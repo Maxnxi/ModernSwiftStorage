@@ -10,7 +10,7 @@ import ModernSwiftStorage
 
 // MARK: - Complete Example App
 
-@available(iOS 14.0, macOS 12.0, watchOS 7.0, tvOS 14.0, *)
+@available(iOS 15.0, macOS 12.0, watchOS 7.0, tvOS 14.0, *)
 struct ExampleApp: App {
 	var body: some Scene {
 		WindowGroup {
